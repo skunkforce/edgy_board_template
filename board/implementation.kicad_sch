@@ -7,4 +7,9 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "GND" (shape input) (at 194.31 120.65 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 3a157695-9c71-4123-9d47-e9f157bde643)
+  )
 )
